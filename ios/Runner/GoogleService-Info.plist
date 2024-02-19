@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDU4Ok87AJGt0sauG5uBN0a_FfVoD0HBLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>699934253667</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.misLab3</string>
+	<key>PROJECT_ID</key>
+	<string>mis-lab3-e185e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mis-lab3-e185e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:699934253667:ios:1fb5a1ca8ef380e9a08e56</string>
+</dict>
+</plist>
